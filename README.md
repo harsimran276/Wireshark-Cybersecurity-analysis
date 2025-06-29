@@ -1,1 +1,4 @@
 # Wireshark-Cybersecurity-analysis
+Project Summary: this project demonstrates the detection and analysis of DoS (Denial-of-Service) attack patterns using Wireshark. It explores real-world packet capture (PCAP) data to identify suspicious traffic and simulate a threat mitigation workflow.
+Tools & Technologies Used: Wireshark – for packet capture analysis,  PCAP files – to analyze real-time and historical network traffic,  TCP/IP protocols – for identifying anomalies, Presentation & Reporting Tools – PowerPoint, Canva, and video tools for documentation.
+What This Project Demonstrates: Identification and categorization of DoS/DDoS attack traffic, Detection of anomalies based on packet volume, frequency, and protocol misuse; Use of protocol-level analysis to trace potential threats, Documentation of findings and response strategies, simulating real-world incident triage.
